@@ -1,5 +1,6 @@
 911Alert
 ========
+hackathon project:
 
 Public Safety Text Alert
 
